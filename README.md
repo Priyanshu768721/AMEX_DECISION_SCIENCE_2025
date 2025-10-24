@@ -1,7 +1,7 @@
 # 🏆 American Express Decision Science Campus Challenge 2025  
-### 2nd Runner-Up Winning Solution
+### 3nd Runner-Up Winning Solution
 
-This repository contains the **2nd Runner-Up** solution for the **American Express Decision Science Campus Challenge 2025**.  
+This repository contains the **3rd Runner-Up** solution for the **American Express Decision Science Campus Challenge 2025**.  
 The project focused on **predicting customer click behavior on offers**, framed as a **ranking problem**.
 
 Our final solution achieved a **MAP@7 score of 80.09%** on a **temporally-split validation set**.
